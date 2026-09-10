@@ -1,4 +1,4 @@
-```markdown
+
 # 🕵️ JS-API-Recon
 
 **An OpenCode AI Skill for Semantic JavaScript API Endpoint Reconstruction**
@@ -17,7 +17,8 @@
 
 Modern JavaScript applications (SPAs, React, Vue, Angular) split API routes across multiple files and classes:
 
-```javascript
+```
+javascript
 // File A: Base class
 class BaseApi {
   constructor() { this.base = "/api"; }
